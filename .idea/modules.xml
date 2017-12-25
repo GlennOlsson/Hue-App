@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hue.app.Glenn.iml" filepath="$PROJECT_DIR$/.idea/modules/Hue.app.Glenn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hue.app.Glenn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hue.app.Glenn_main.iml" group="Hue.app.Glenn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hue.app.Glenn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hue.app.Glenn_test.iml" group="Hue.app.Glenn" />
+    </modules>
+  </component>
+</project>
